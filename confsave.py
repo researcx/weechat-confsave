@@ -1,6 +1,7 @@
 #
-# Copyright (c) 2020 unendingPattern (unendingpattern.github.io) <kei.trei.a52@gmail.com>
-#
+# Copyright (c) 2020 unendingPattern <kei.trei.a52@gmail.com>
+# unendingpattern.github.io
+# 
 # Everyone is permitted to copy and distribute verbatim or modified
 # copies of this license document, and changing it is allowed as long
 # as the name is changed.
