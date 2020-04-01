@@ -12,12 +12,12 @@ Note: will attempt to exclude plaintext passwords.
 ##### Manually
 **wget:**
 ```
-wget -P .weechat/python/ https://github.com/unendingPattern/weechat-confsave/raw/master/confsave.py
+wget -P ~/.weechat/python/ https://github.com/unendingPattern/weechat-confsave/raw/master/confsave.py
 ```
 
 **curl:**
 ```
-curl -LJo .weechat/python/confsave.py https://github.com/unendingPattern/weechat-confsave/raw/master/confsave.py
+curl -LJo ~/.weechat/python/confsave.py https://github.com/unendingPattern/weechat-confsave/raw/master/confsave.py
 ```
 
 
